@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="OneHandSurface.Core/OneHandSurface.Core.csproj"/>
+  <Project Path="OneHandSurface.Engine/OneHandSurface.Engine.csproj"/>
+  <Project Path="OneHandSurface.Tests/OneHandSurface.Tests.csproj"/>
+</Solution>
